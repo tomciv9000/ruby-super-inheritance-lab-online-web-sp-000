@@ -1,5 +1,3 @@
-require "./chatty_student.rb"
-
 class Student 
   
   def hello 
